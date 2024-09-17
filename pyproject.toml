@@ -1,0 +1,4 @@
+[tool.pytest]
+    pythonpath = "src"
+[build-system]
+    requires = ["setuptools", "wheel"]
